@@ -1,16 +1,7 @@
-Olá, meu nome é Lucas e tenho 21 anos.
+Olá, me chamo Lucas, tudo bem? Bom, espero que sim!  
 
-Quero me tornar um grande desenvolvedor um dia!
+🔷 Cursando análise e desenvolvimento de sistemas na FIAP, focando mais em JAVA 
+🔷 Por aqui você pode conferir minha evolução, aos poucos vou me desenvolvendo cada vez mais!
 
-Meu perfil no GitHub serve para expor meus conhecimentos e minha própria evolução
 
-Hoje tenho conhecimentos em:
-
--> JAVA
--> JS
--> PHP
--> HTML/CSS
--> BootStrap
--> Git/Github 
- 
- Aqui irie expor projetos de faculdade e projetos pessoais, espero de alguma maneira ajudar alguém futuramente que pretende seguir o mesmo caminho que eu.
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green

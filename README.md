@@ -1,6 +1,6 @@
 ### Olá, me chamo Lucas, tudo bem? Bom, espero que sim!  
 
-🔷 Cursando análise e desenvolvimento de sistemas na FIAP, focando mais em JAVA ☕ <br>
+🔷 Formado em análise e desenvolvimento de sistemas pela FIAP ☕ <br>
 🔷 Por aqui você pode conferir a minha evolução 😉
 
 <div align="center">

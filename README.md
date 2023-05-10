@@ -1,7 +1,8 @@
-### Olá, me chamo Lucas, tudo bem? Bom, espero que sim!  
+### Olá, seja bem-vindo, meu nome é Lucas! 
 
 🔷 Formado em análise e desenvolvimento de sistemas pela FIAP ☕ <br>
-🔷 Por aqui você pode conferir a minha evolução 😉
+🔷 Cursando pós-graduação - especialização em Arquitetura e Desenvolvimento Java ☕ <br>
+🔷 Por aqui você pode acompanhar toda minha trajetória 😉
 
 <div align="center">
   <a href="https://github.com/Luzeraaa">
